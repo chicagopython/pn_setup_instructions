@@ -17,17 +17,9 @@ If not:
  2. Click on "Clone or download" > "Download ZIP" and unzip the file that gets downloaded
  3. From your command line, change directories to the path where you unzipped the repository:
 
-		On linux or OS X
-
-		  ```
-      cd path/to/project
-      ```
-		
-		On Windows
-
-		  ```
-      cd path\to\project
-      ```
+	On linux or OS X: `cd path/to/project`
+	
+	On Windows: `cd path\to\project`
 
 
 ## Set up virtualenv
